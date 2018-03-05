@@ -1,5 +1,4 @@
-//
-// You can update the template version by copying files manually or using Git:
+You can update the template version by copying files manually or using Git:
 
 1. Install Git. Instructions: https://help.github.com/articles/set-up-git
 2. Open terminal window and go the root of existing PixelAdmin directory (version 1.2.1)
